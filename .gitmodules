@@ -1,0 +1,32 @@
+[submodule "source/jest"]
+	path = sources/jest
+	url = git@github.com:facebook/jest.git
+	branch = master
+[submodule "sources/cypress"]
+	path = sources/cypress-documentation
+	url = git@github.com:cypress-io/cypress-documentation.git
+	branch = develop
+[submodule "sources/eslint-website"]
+	path = sources/eslint-website
+	url = git@github.com:eslint/website.git
+	branch = master
+[submodule "sources/eslint"]
+	path = sources/eslint
+	url = git@github.com:eslint/eslint.git
+	branch = master
+[submodule "sources/mdn-yari"]
+	path = sources/mdn-yari
+	url = git@github.com:mdn/yari.git
+	branch = master
+[submodule "sources/eslint-unicode"]
+	path = sources/eslint-plugin-unicorn
+	url = git@github.com:sindresorhus/eslint-plugin-unicorn.git
+	branch = master
+[submodule "docs/eslint-sonarjs"]
+	path = sources/eslint-plugin-sonarjs
+	url = git@github.com:SonarSource/eslint-plugin-sonarjs.git
+	branch = master
+[submodule "sources/eslint-plugin-react"]
+	path = sources/eslint-plugin-react
+	url = git@github.com:yannickcr/eslint-plugin-react.git
+	branch = master

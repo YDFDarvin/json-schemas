@@ -1,0 +1,11 @@
+[core]
+	symlinks = true
+  filemode = true
+[push]
+	recurseSubmodules = on-demand
+[rebase]
+	autoStash = true
+[pull]
+	rebase = true
+[fetch]
+	recurseSubmodules = false

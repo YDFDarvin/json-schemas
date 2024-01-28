@@ -1,0 +1,33 @@
+{
+  "name": "json-schemas",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "mdn-yari.build": "npm explore yari -- node content build -l en-us -f web/css",
+    "css/terms.extract": "ts-node -T scripts/css_terms.ts > build/css/terms.json",
+    "css/props.analyze": "ts-node -T scripts/css_props_analayze.ts > build/css/props_analyzed.json",
+    "css/index.extract": "ts-node -T scripts/css_export-headers.ts > build/css/index.mdn.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/askirmas/json-schemas.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/askirmas/json-schemas/issues"
+  },
+  "homepage": "https://github.com/askirmas/json-schemas#readme",
+  "devDependencies": {
+    "@types/globby": "^9.1.0",
+    "@types/node": "^14.0.13",
+    "@typescript-eslint/eslint-plugin": "^3.3.0",
+    "caporal": "^1.4.0",
+    "globby": "^11.0.1",
+    "stylelint": "^13.6.1",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5",
+    "yari": "git+ssh://git@github.com/mdn/yari.git#master"
+  },
+  "dependencies": {}
+}

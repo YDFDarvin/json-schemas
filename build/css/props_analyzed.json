@@ -1,0 +1,3277 @@
+{
+  "weights": [
+    [
+      "animation",
+      "background",
+      "counter",
+      "flex",
+      "font",
+      "grid",
+      "inset",
+      "list",
+      "mask",
+      "max",
+      "min",
+      "object",
+      "outline",
+      "overscroll",
+      "page",
+      "perspective",
+      "place",
+      "scroll",
+      "scrollbar",
+      "shape",
+      "text",
+      "transition",
+      "word"
+    ],
+    [
+      "delay",
+      "direction",
+      "duration",
+      "timing",
+      "filter",
+      "visibility",
+      "blend",
+      "clip",
+      "border",
+      "column",
+      "settings",
+      "variant",
+      "auto",
+      "row",
+      "template",
+      "justify",
+      "margin",
+      "order",
+      "overflow",
+      "behavior",
+      "padding",
+      "snap",
+      "emphasis",
+      "transform",
+      "underline"
+    ],
+    [
+      "align",
+      "fill",
+      "count",
+      "function",
+      "origin",
+      "block",
+      "bottom",
+      "inline",
+      "spacing",
+      "top",
+      "box",
+      "gap",
+      "rule",
+      "columns",
+      "flow",
+      "wrap",
+      "rows",
+      "offset",
+      "x",
+      "y"
+    ],
+    [
+      "content",
+      "items",
+      "self",
+      "mode",
+      "size",
+      "left",
+      "right",
+      "decoration",
+      "shadow",
+      "sizing",
+      "path",
+      "anchor",
+      "rotate"
+    ],
+    [
+      "line"
+    ],
+    [
+      "break",
+      "height"
+    ],
+    [
+      "after",
+      "before",
+      "inside"
+    ],
+    [
+      "color",
+      "image",
+      "position",
+      "repeat",
+      "end",
+      "style",
+      "width",
+      "start",
+      "radius",
+      "outset",
+      "slice",
+      "source",
+      "adjust",
+      "orientation",
+      "rendering",
+      "type"
+    ]
+  ],
+  "singles": [
+    "all",
+    "caption-side",
+    "ch",
+    "clear",
+    "cm",
+    "contain",
+    "cursor",
+    "deg",
+    "display",
+    "dpcm",
+    "dpi",
+    "dppx",
+    "em",
+    "empty-cells",
+    "ex",
+    "float",
+    "fr",
+    "grad",
+    "hanging-punctuation",
+    "hyphens",
+    "in",
+    "inherit",
+    "initial",
+    "isolation",
+    "mm",
+    "ms",
+    "opacity",
+    "orphans",
+    "pc",
+    "pointer-events",
+    "pt",
+    "px",
+    "quotes",
+    "rad",
+    "rem",
+    "resize",
+    "revert",
+    "s",
+    "scale",
+    "table-layout",
+    "touch-action",
+    "translate",
+    "turn",
+    "unicode-bidi",
+    "unset",
+    "vh",
+    "vmax",
+    "vmin",
+    "vw",
+    "white-space",
+    "widows",
+    "will-change",
+    "z-index"
+  ],
+  "unique": {
+    "-webkit-line-clamp": [
+      "clamp",
+      "webkit"
+    ],
+    "animation-iteration-count": [
+      "iteration"
+    ],
+    "animation-name": [
+      "name"
+    ],
+    "animation-play-state": [
+      "state",
+      "play"
+    ],
+    "backdrop-filter": [
+      "backdrop"
+    ],
+    "backface-visibility": [
+      "backface"
+    ],
+    "background-attachment": [
+      "attachment"
+    ],
+    "border-collapse": [
+      "collapse"
+    ],
+    "caret-color": [
+      "caret"
+    ],
+    "column-span": [
+      "span"
+    ],
+    "counter-increment": [
+      "increment"
+    ],
+    "counter-reset": [
+      "reset"
+    ],
+    "counter-set": [
+      "set"
+    ],
+    "flex-basis": [
+      "basis"
+    ],
+    "flex-grow": [
+      "grow"
+    ],
+    "flex-shrink": [
+      "shrink"
+    ],
+    "font-family": [
+      "family"
+    ],
+    "font-feature-settings": [
+      "feature"
+    ],
+    "font-kerning": [
+      "kerning"
+    ],
+    "font-language-override": [
+      "override",
+      "language"
+    ],
+    "font-optical-sizing": [
+      "optical"
+    ],
+    "font-stretch": [
+      "stretch"
+    ],
+    "font-synthesis": [
+      "synthesis"
+    ],
+    "font-variant-alternates": [
+      "alternates"
+    ],
+    "font-variant-caps": [
+      "caps"
+    ],
+    "font-variant-east-asian": [
+      "asian",
+      "east"
+    ],
+    "font-variant-ligatures": [
+      "ligatures"
+    ],
+    "font-variant-numeric": [
+      "numeric"
+    ],
+    "font-variation-settings": [
+      "variation"
+    ],
+    "font-weight": [
+      "weight"
+    ],
+    "grid-area": [
+      "area"
+    ],
+    "grid-template-areas": [
+      "areas"
+    ],
+    "letter-spacing": [
+      "letter"
+    ],
+    "mask-composite": [
+      "composite"
+    ],
+    "mix-blend-mode": [
+      "mix"
+    ],
+    "object-fit": [
+      "fit"
+    ],
+    "offset-distance": [
+      "distance"
+    ],
+    "paint-order": [
+      "paint"
+    ],
+    "scroll-snap-stop": [
+      "stop"
+    ],
+    "shape-image-threshold": [
+      "threshold"
+    ],
+    "shape-outside": [
+      "outside"
+    ],
+    "tab-size": [
+      "tab"
+    ],
+    "text-align-last": [
+      "last"
+    ],
+    "text-combine-upright": [
+      "upright",
+      "combine"
+    ],
+    "text-decoration-skip-ink": [
+      "ink",
+      "skip"
+    ],
+    "text-decoration-thickness": [
+      "thickness"
+    ],
+    "text-indent": [
+      "indent"
+    ],
+    "transition-property": [
+      "property"
+    ],
+    "vertical-align": [
+      "vertical"
+    ],
+    "writing-mode": [
+      "writing"
+    ]
+  },
+  "usage": {
+    "line": [
+      "-webkit-line-clamp",
+      "line-break",
+      "line-height",
+      "text-decoration-line"
+    ],
+    "content": [
+      "align-content",
+      "content",
+      "justify-content",
+      "place-content"
+    ],
+    "align": [
+      "align-content",
+      "align-items",
+      "align-self",
+      "scroll-snap-align",
+      "text-align",
+      "text-align-last",
+      "vertical-align"
+    ],
+    "items": [
+      "align-items",
+      "justify-items",
+      "place-items"
+    ],
+    "self": [
+      "align-self",
+      "justify-self",
+      "place-self"
+    ],
+    "animation": [
+      "animation",
+      "animation-delay",
+      "animation-direction",
+      "animation-duration",
+      "animation-fill-mode",
+      "animation-iteration-count",
+      "animation-name",
+      "animation-play-state",
+      "animation-timing-function"
+    ],
+    "delay": [
+      "animation-delay",
+      "transition-delay"
+    ],
+    "direction": [
+      "animation-direction",
+      "direction",
+      "flex-direction"
+    ],
+    "duration": [
+      "animation-duration",
+      "transition-duration"
+    ],
+    "mode": [
+      "animation-fill-mode",
+      "background-blend-mode",
+      "mask-border-mode",
+      "mask-mode",
+      "mix-blend-mode",
+      "writing-mode"
+    ],
+    "fill": [
+      "animation-fill-mode",
+      "column-fill"
+    ],
+    "count": [
+      "animation-iteration-count",
+      "column-count"
+    ],
+    "function": [
+      "animation-timing-function",
+      "transition-timing-function"
+    ],
+    "timing": [
+      "animation-timing-function",
+      "transition-timing-function"
+    ],
+    "filter": [
+      "backdrop-filter",
+      "filter"
+    ],
+    "visibility": [
+      "backface-visibility",
+      "visibility"
+    ],
+    "background": [
+      "background",
+      "background-attachment",
+      "background-blend-mode",
+      "background-clip",
+      "background-color",
+      "background-image",
+      "background-origin",
+      "background-position",
+      "background-repeat",
+      "background-size"
+    ],
+    "blend": [
+      "background-blend-mode",
+      "mix-blend-mode"
+    ],
+    "clip": [
+      "background-clip",
+      "clip",
+      "clip-path",
+      "mask-clip"
+    ],
+    "color": [
+      "background-color",
+      "border-block-color",
+      "border-block-end-color",
+      "border-block-start-color",
+      "border-bottom-color",
+      "border-color",
+      "border-inline-color",
+      "border-inline-end-color",
+      "border-inline-start-color",
+      "border-left-color",
+      "border-right-color",
+      "border-top-color",
+      "caret-color",
+      "color",
+      "color-adjust",
+      "column-rule-color",
+      "outline-color",
+      "scrollbar-color",
+      "text-decoration-color",
+      "text-emphasis-color"
+    ],
+    "image": [
+      "background-image",
+      "border-image",
+      "border-image-outset",
+      "border-image-repeat",
+      "border-image-slice",
+      "border-image-source",
+      "border-image-width",
+      "image-orientation",
+      "image-rendering",
+      "list-style-image",
+      "mask-image",
+      "shape-image-threshold"
+    ],
+    "origin": [
+      "background-origin",
+      "mask-origin",
+      "perspective-origin",
+      "transform-origin"
+    ],
+    "position": [
+      "background-position",
+      "font-variant-position",
+      "list-style-position",
+      "mask-position",
+      "object-position",
+      "position",
+      "text-emphasis-position",
+      "text-underline-position"
+    ],
+    "repeat": [
+      "background-repeat",
+      "border-image-repeat",
+      "mask-border-repeat",
+      "mask-repeat"
+    ],
+    "size": [
+      "background-size",
+      "block-size",
+      "font-size",
+      "font-size-adjust",
+      "inline-size",
+      "mask-size",
+      "max-block-size",
+      "max-inline-size",
+      "min-block-size",
+      "min-inline-size",
+      "tab-size"
+    ],
+    "block": [
+      "block-size",
+      "border-block",
+      "border-block-color",
+      "border-block-end",
+      "border-block-end-color",
+      "border-block-end-style",
+      "border-block-end-width",
+      "border-block-start",
+      "border-block-start-color",
+      "border-block-start-style",
+      "border-block-start-width",
+      "border-block-style",
+      "border-block-width",
+      "inset-block",
+      "inset-block-end",
+      "inset-block-start",
+      "margin-block",
+      "margin-block-end",
+      "margin-block-start",
+      "max-block-size",
+      "min-block-size",
+      "overflow-block",
+      "overscroll-behavior-block",
+      "padding-block",
+      "padding-block-end",
+      "padding-block-start",
+      "scroll-margin-block",
+      "scroll-margin-block-end",
+      "scroll-margin-block-start",
+      "scroll-padding-block",
+      "scroll-padding-block-end",
+      "scroll-padding-block-start"
+    ],
+    "border": [
+      "border",
+      "border-block",
+      "border-block-color",
+      "border-block-end",
+      "border-block-end-color",
+      "border-block-end-style",
+      "border-block-end-width",
+      "border-block-start",
+      "border-block-start-color",
+      "border-block-start-style",
+      "border-block-start-width",
+      "border-block-style",
+      "border-block-width",
+      "border-bottom",
+      "border-bottom-color",
+      "border-bottom-left-radius",
+      "border-bottom-right-radius",
+      "border-bottom-style",
+      "border-bottom-width",
+      "border-collapse",
+      "border-color",
+      "border-end-end-radius",
+      "border-end-start-radius",
+      "border-image",
+      "border-image-outset",
+      "border-image-repeat",
+      "border-image-slice",
+      "border-image-source",
+      "border-image-width",
+      "border-inline",
+      "border-inline-color",
+      "border-inline-end",
+      "border-inline-end-color",
+      "border-inline-end-style",
+      "border-inline-end-width",
+      "border-inline-start",
+      "border-inline-start-color",
+      "border-inline-start-style",
+      "border-inline-start-width",
+      "border-inline-style",
+      "border-inline-width",
+      "border-left",
+      "border-left-color",
+      "border-left-style",
+      "border-left-width",
+      "border-radius",
+      "border-right",
+      "border-right-color",
+      "border-right-style",
+      "border-right-width",
+      "border-spacing",
+      "border-start-end-radius",
+      "border-start-start-radius",
+      "border-style",
+      "border-top",
+      "border-top-color",
+      "border-top-left-radius",
+      "border-top-right-radius",
+      "border-top-style",
+      "border-top-width",
+      "border-width",
+      "mask-border",
+      "mask-border-mode",
+      "mask-border-outset",
+      "mask-border-repeat",
+      "mask-border-slice",
+      "mask-border-source",
+      "mask-border-width"
+    ],
+    "end": [
+      "border-block-end",
+      "border-block-end-color",
+      "border-block-end-style",
+      "border-block-end-width",
+      "border-end-end-radius",
+      "border-end-start-radius",
+      "border-inline-end",
+      "border-inline-end-color",
+      "border-inline-end-style",
+      "border-inline-end-width",
+      "border-start-end-radius",
+      "grid-column-end",
+      "grid-row-end",
+      "inset-block-end",
+      "inset-inline-end",
+      "margin-block-end",
+      "margin-inline-end",
+      "padding-block-end",
+      "padding-inline-end",
+      "scroll-margin-block-end",
+      "scroll-margin-inline-end",
+      "scroll-padding-block-end",
+      "scroll-padding-inline-end"
+    ],
+    "style": [
+      "border-block-end-style",
+      "border-block-start-style",
+      "border-block-style",
+      "border-bottom-style",
+      "border-inline-end-style",
+      "border-inline-start-style",
+      "border-inline-style",
+      "border-left-style",
+      "border-right-style",
+      "border-style",
+      "border-top-style",
+      "column-rule-style",
+      "font-style",
+      "list-style",
+      "list-style-image",
+      "list-style-position",
+      "list-style-type",
+      "outline-style",
+      "text-decoration-style",
+      "text-emphasis-style",
+      "transform-style"
+    ],
+    "width": [
+      "border-block-end-width",
+      "border-block-start-width",
+      "border-block-width",
+      "border-bottom-width",
+      "border-image-width",
+      "border-inline-end-width",
+      "border-inline-start-width",
+      "border-inline-width",
+      "border-left-width",
+      "border-right-width",
+      "border-top-width",
+      "border-width",
+      "column-rule-width",
+      "column-width",
+      "mask-border-width",
+      "max-width",
+      "min-width",
+      "outline-width",
+      "scrollbar-width",
+      "width"
+    ],
+    "start": [
+      "border-block-start",
+      "border-block-start-color",
+      "border-block-start-style",
+      "border-block-start-width",
+      "border-end-start-radius",
+      "border-inline-start",
+      "border-inline-start-color",
+      "border-inline-start-style",
+      "border-inline-start-width",
+      "border-start-end-radius",
+      "border-start-start-radius",
+      "grid-column-start",
+      "grid-row-start",
+      "inset-block-start",
+      "inset-inline-start",
+      "margin-block-start",
+      "margin-inline-start",
+      "padding-block-start",
+      "padding-inline-start",
+      "scroll-margin-block-start",
+      "scroll-margin-inline-start",
+      "scroll-padding-block-start",
+      "scroll-padding-inline-start"
+    ],
+    "bottom": [
+      "border-bottom",
+      "border-bottom-color",
+      "border-bottom-left-radius",
+      "border-bottom-right-radius",
+      "border-bottom-style",
+      "border-bottom-width",
+      "bottom",
+      "margin-bottom",
+      "padding-bottom",
+      "scroll-margin-bottom",
+      "scroll-padding-bottom"
+    ],
+    "radius": [
+      "border-bottom-left-radius",
+      "border-bottom-right-radius",
+      "border-end-end-radius",
+      "border-end-start-radius",
+      "border-radius",
+      "border-start-end-radius",
+      "border-start-start-radius",
+      "border-top-left-radius",
+      "border-top-right-radius"
+    ],
+    "left": [
+      "border-bottom-left-radius",
+      "border-left",
+      "border-left-color",
+      "border-left-style",
+      "border-left-width",
+      "border-top-left-radius",
+      "left",
+      "margin-left",
+      "padding-left",
+      "scroll-margin-left",
+      "scroll-padding-left"
+    ],
+    "right": [
+      "border-bottom-right-radius",
+      "border-right",
+      "border-right-color",
+      "border-right-style",
+      "border-right-width",
+      "border-top-right-radius",
+      "margin-right",
+      "padding-right",
+      "right",
+      "scroll-margin-right",
+      "scroll-padding-right"
+    ],
+    "outset": [
+      "border-image-outset",
+      "mask-border-outset"
+    ],
+    "slice": [
+      "border-image-slice",
+      "mask-border-slice"
+    ],
+    "source": [
+      "border-image-source",
+      "mask-border-source"
+    ],
+    "inline": [
+      "border-inline",
+      "border-inline-color",
+      "border-inline-end",
+      "border-inline-end-color",
+      "border-inline-end-style",
+      "border-inline-end-width",
+      "border-inline-start",
+      "border-inline-start-color",
+      "border-inline-start-style",
+      "border-inline-start-width",
+      "border-inline-style",
+      "border-inline-width",
+      "inline-size",
+      "inset-inline",
+      "inset-inline-end",
+      "inset-inline-start",
+      "margin-inline",
+      "margin-inline-end",
+      "margin-inline-start",
+      "max-inline-size",
+      "min-inline-size",
+      "overflow-inline",
+      "overscroll-behavior-inline",
+      "padding-inline",
+      "padding-inline-end",
+      "padding-inline-start",
+      "scroll-margin-inline",
+      "scroll-margin-inline-end",
+      "scroll-margin-inline-start",
+      "scroll-padding-inline",
+      "scroll-padding-inline-end",
+      "scroll-padding-inline-start"
+    ],
+    "spacing": [
+      "border-spacing",
+      "letter-spacing",
+      "word-spacing"
+    ],
+    "top": [
+      "border-top",
+      "border-top-color",
+      "border-top-left-radius",
+      "border-top-right-radius",
+      "border-top-style",
+      "border-top-width",
+      "margin-top",
+      "padding-top",
+      "scroll-margin-top",
+      "scroll-padding-top",
+      "top"
+    ],
+    "break": [
+      "box-decoration-break",
+      "break-after",
+      "break-before",
+      "break-inside",
+      "line-break",
+      "page-break-after",
+      "page-break-before",
+      "page-break-inside",
+      "word-break"
+    ],
+    "decoration": [
+      "box-decoration-break",
+      "text-decoration",
+      "text-decoration-color",
+      "text-decoration-line",
+      "text-decoration-skip-ink",
+      "text-decoration-style",
+      "text-decoration-thickness"
+    ],
+    "box": [
+      "box-decoration-break",
+      "box-shadow",
+      "box-sizing",
+      "transform-box"
+    ],
+    "shadow": [
+      "box-shadow",
+      "text-shadow"
+    ],
+    "sizing": [
+      "box-sizing",
+      "font-optical-sizing"
+    ],
+    "after": [
+      "break-after",
+      "page-break-after"
+    ],
+    "before": [
+      "break-before",
+      "page-break-before"
+    ],
+    "inside": [
+      "break-inside",
+      "page-break-inside"
+    ],
+    "path": [
+      "clip-path",
+      "offset-path"
+    ],
+    "adjust": [
+      "color-adjust",
+      "font-size-adjust"
+    ],
+    "column": [
+      "column-count",
+      "column-fill",
+      "column-gap",
+      "column-rule",
+      "column-rule-color",
+      "column-rule-style",
+      "column-rule-width",
+      "column-span",
+      "column-width",
+      "grid-column",
+      "grid-column-end",
+      "grid-column-start"
+    ],
+    "gap": [
+      "column-gap",
+      "gap",
+      "row-gap"
+    ],
+    "rule": [
+      "column-rule",
+      "column-rule-color",
+      "column-rule-style",
+      "column-rule-width"
+    ],
+    "columns": [
+      "columns",
+      "grid-auto-columns",
+      "grid-template-columns"
+    ],
+    "counter": [
+      "counter-increment",
+      "counter-reset",
+      "counter-set"
+    ],
+    "flex": [
+      "flex",
+      "flex-basis",
+      "flex-direction",
+      "flex-flow",
+      "flex-grow",
+      "flex-shrink",
+      "flex-wrap"
+    ],
+    "flow": [
+      "flex-flow",
+      "grid-auto-flow"
+    ],
+    "wrap": [
+      "flex-wrap",
+      "overflow-wrap",
+      "word-wrap"
+    ],
+    "font": [
+      "font",
+      "font-family",
+      "font-feature-settings",
+      "font-kerning",
+      "font-language-override",
+      "font-optical-sizing",
+      "font-size",
+      "font-size-adjust",
+      "font-stretch",
+      "font-style",
+      "font-synthesis",
+      "font-variant",
+      "font-variant-alternates",
+      "font-variant-caps",
+      "font-variant-east-asian",
+      "font-variant-ligatures",
+      "font-variant-numeric",
+      "font-variant-position",
+      "font-variation-settings",
+      "font-weight"
+    ],
+    "settings": [
+      "font-feature-settings",
+      "font-variation-settings"
+    ],
+    "variant": [
+      "font-variant",
+      "font-variant-alternates",
+      "font-variant-caps",
+      "font-variant-east-asian",
+      "font-variant-ligatures",
+      "font-variant-numeric",
+      "font-variant-position"
+    ],
+    "grid": [
+      "grid",
+      "grid-area",
+      "grid-auto-columns",
+      "grid-auto-flow",
+      "grid-auto-rows",
+      "grid-column",
+      "grid-column-end",
+      "grid-column-start",
+      "grid-row",
+      "grid-row-end",
+      "grid-row-start",
+      "grid-template",
+      "grid-template-areas",
+      "grid-template-columns",
+      "grid-template-rows"
+    ],
+    "auto": [
+      "grid-auto-columns",
+      "grid-auto-flow",
+      "grid-auto-rows"
+    ],
+    "rows": [
+      "grid-auto-rows",
+      "grid-template-rows"
+    ],
+    "row": [
+      "grid-row",
+      "grid-row-end",
+      "grid-row-start",
+      "row-gap"
+    ],
+    "template": [
+      "grid-template",
+      "grid-template-areas",
+      "grid-template-columns",
+      "grid-template-rows"
+    ],
+    "height": [
+      "height",
+      "line-height",
+      "max-height",
+      "min-height"
+    ],
+    "orientation": [
+      "image-orientation",
+      "text-orientation"
+    ],
+    "rendering": [
+      "image-rendering",
+      "text-rendering"
+    ],
+    "inset": [
+      "inset",
+      "inset-block",
+      "inset-block-end",
+      "inset-block-start",
+      "inset-inline",
+      "inset-inline-end",
+      "inset-inline-start"
+    ],
+    "justify": [
+      "justify-content",
+      "justify-items",
+      "justify-self",
+      "text-justify"
+    ],
+    "list": [
+      "list-style",
+      "list-style-image",
+      "list-style-position",
+      "list-style-type"
+    ],
+    "type": [
+      "list-style-type",
+      "mask-type",
+      "scroll-snap-type"
+    ],
+    "margin": [
+      "margin",
+      "margin-block",
+      "margin-block-end",
+      "margin-block-start",
+      "margin-bottom",
+      "margin-inline",
+      "margin-inline-end",
+      "margin-inline-start",
+      "margin-left",
+      "margin-right",
+      "margin-top",
+      "scroll-margin",
+      "scroll-margin-block",
+      "scroll-margin-block-end",
+      "scroll-margin-block-start",
+      "scroll-margin-bottom",
+      "scroll-margin-inline",
+      "scroll-margin-inline-end",
+      "scroll-margin-inline-start",
+      "scroll-margin-left",
+      "scroll-margin-right",
+      "scroll-margin-top",
+      "shape-margin"
+    ],
+    "mask": [
+      "mask",
+      "mask-border",
+      "mask-border-mode",
+      "mask-border-outset",
+      "mask-border-repeat",
+      "mask-border-slice",
+      "mask-border-source",
+      "mask-border-width",
+      "mask-clip",
+      "mask-composite",
+      "mask-image",
+      "mask-mode",
+      "mask-origin",
+      "mask-position",
+      "mask-repeat",
+      "mask-size",
+      "mask-type"
+    ],
+    "max": [
+      "max-block-size",
+      "max-height",
+      "max-inline-size",
+      "max-width"
+    ],
+    "min": [
+      "min-block-size",
+      "min-height",
+      "min-inline-size",
+      "min-width"
+    ],
+    "object": [
+      "object-fit",
+      "object-position"
+    ],
+    "offset": [
+      "offset",
+      "offset-anchor",
+      "offset-distance",
+      "offset-path",
+      "offset-rotate",
+      "outline-offset",
+      "text-underline-offset"
+    ],
+    "anchor": [
+      "offset-anchor",
+      "overflow-anchor"
+    ],
+    "rotate": [
+      "offset-rotate",
+      "rotate"
+    ],
+    "order": [
+      "order",
+      "paint-order"
+    ],
+    "outline": [
+      "outline",
+      "outline-color",
+      "outline-offset",
+      "outline-style",
+      "outline-width"
+    ],
+    "overflow": [
+      "overflow",
+      "overflow-anchor",
+      "overflow-block",
+      "overflow-inline",
+      "overflow-wrap",
+      "overflow-x",
+      "overflow-y",
+      "text-overflow"
+    ],
+    "x": [
+      "overflow-x",
+      "overscroll-behavior-x",
+      "x"
+    ],
+    "y": [
+      "overflow-y",
+      "overscroll-behavior-y"
+    ],
+    "behavior": [
+      "overscroll-behavior",
+      "overscroll-behavior-block",
+      "overscroll-behavior-inline",
+      "overscroll-behavior-x",
+      "overscroll-behavior-y",
+      "scroll-behavior"
+    ],
+    "overscroll": [
+      "overscroll-behavior",
+      "overscroll-behavior-block",
+      "overscroll-behavior-inline",
+      "overscroll-behavior-x",
+      "overscroll-behavior-y"
+    ],
+    "padding": [
+      "padding",
+      "padding-block",
+      "padding-block-end",
+      "padding-block-start",
+      "padding-bottom",
+      "padding-inline",
+      "padding-inline-end",
+      "padding-inline-start",
+      "padding-left",
+      "padding-right",
+      "padding-top",
+      "scroll-padding",
+      "scroll-padding-block",
+      "scroll-padding-block-end",
+      "scroll-padding-block-start",
+      "scroll-padding-bottom",
+      "scroll-padding-inline",
+      "scroll-padding-inline-end",
+      "scroll-padding-inline-start",
+      "scroll-padding-left",
+      "scroll-padding-right",
+      "scroll-padding-top"
+    ],
+    "page": [
+      "page-break-after",
+      "page-break-before",
+      "page-break-inside"
+    ],
+    "perspective": [
+      "perspective",
+      "perspective-origin"
+    ],
+    "place": [
+      "place-content",
+      "place-items",
+      "place-self"
+    ],
+    "scroll": [
+      "scroll-behavior",
+      "scroll-margin",
+      "scroll-margin-block",
+      "scroll-margin-block-end",
+      "scroll-margin-block-start",
+      "scroll-margin-bottom",
+      "scroll-margin-inline",
+      "scroll-margin-inline-end",
+      "scroll-margin-inline-start",
+      "scroll-margin-left",
+      "scroll-margin-right",
+      "scroll-margin-top",
+      "scroll-padding",
+      "scroll-padding-block",
+      "scroll-padding-block-end",
+      "scroll-padding-block-start",
+      "scroll-padding-bottom",
+      "scroll-padding-inline",
+      "scroll-padding-inline-end",
+      "scroll-padding-inline-start",
+      "scroll-padding-left",
+      "scroll-padding-right",
+      "scroll-padding-top",
+      "scroll-snap-align",
+      "scroll-snap-stop",
+      "scroll-snap-type"
+    ],
+    "snap": [
+      "scroll-snap-align",
+      "scroll-snap-stop",
+      "scroll-snap-type"
+    ],
+    "scrollbar": [
+      "scrollbar-color",
+      "scrollbar-width"
+    ],
+    "shape": [
+      "shape-image-threshold",
+      "shape-margin",
+      "shape-outside"
+    ],
+    "text": [
+      "text-align",
+      "text-align-last",
+      "text-combine-upright",
+      "text-decoration",
+      "text-decoration-color",
+      "text-decoration-line",
+      "text-decoration-skip-ink",
+      "text-decoration-style",
+      "text-decoration-thickness",
+      "text-emphasis",
+      "text-emphasis-color",
+      "text-emphasis-position",
+      "text-emphasis-style",
+      "text-indent",
+      "text-justify",
+      "text-orientation",
+      "text-overflow",
+      "text-rendering",
+      "text-shadow",
+      "text-transform",
+      "text-underline-offset",
+      "text-underline-position"
+    ],
+    "emphasis": [
+      "text-emphasis",
+      "text-emphasis-color",
+      "text-emphasis-position",
+      "text-emphasis-style"
+    ],
+    "transform": [
+      "text-transform",
+      "transform",
+      "transform-box",
+      "transform-origin",
+      "transform-style"
+    ],
+    "underline": [
+      "text-underline-offset",
+      "text-underline-position"
+    ],
+    "transition": [
+      "transition",
+      "transition-delay",
+      "transition-duration",
+      "transition-property",
+      "transition-timing-function"
+    ],
+    "word": [
+      "word-break",
+      "word-spacing",
+      "word-wrap"
+    ]
+  },
+  "siblings": {
+    "line": [
+      "webkit",
+      "line",
+      "clamp",
+      "break",
+      "height",
+      "text",
+      "decoration"
+    ],
+    "content": [
+      "align",
+      "content",
+      "justify",
+      "place"
+    ],
+    "align": [
+      "align",
+      "content",
+      "items",
+      "self",
+      "scroll",
+      "snap",
+      "text",
+      "last",
+      "vertical"
+    ],
+    "items": [
+      "align",
+      "items",
+      "justify",
+      "place"
+    ],
+    "self": [
+      "align",
+      "self",
+      "justify",
+      "place"
+    ],
+    "animation": [
+      "animation",
+      "delay",
+      "direction",
+      "duration",
+      "fill",
+      "mode",
+      "iteration",
+      "count",
+      "name",
+      "play",
+      "state",
+      "timing",
+      "function"
+    ],
+    "delay": [
+      "animation",
+      "delay",
+      "transition"
+    ],
+    "direction": [
+      "animation",
+      "direction",
+      "flex"
+    ],
+    "duration": [
+      "animation",
+      "duration",
+      "transition"
+    ],
+    "mode": [
+      "animation",
+      "fill",
+      "mode",
+      "background",
+      "blend",
+      "mask",
+      "border",
+      "mix",
+      "writing"
+    ],
+    "fill": [
+      "animation",
+      "fill",
+      "mode",
+      "column"
+    ],
+    "count": [
+      "animation",
+      "iteration",
+      "count",
+      "column"
+    ],
+    "function": [
+      "animation",
+      "timing",
+      "function",
+      "transition"
+    ],
+    "timing": [
+      "animation",
+      "timing",
+      "function",
+      "transition"
+    ],
+    "filter": [
+      "backdrop",
+      "filter"
+    ],
+    "visibility": [
+      "backface",
+      "visibility"
+    ],
+    "background": [
+      "background",
+      "attachment",
+      "blend",
+      "mode",
+      "clip",
+      "color",
+      "image",
+      "origin",
+      "position",
+      "repeat",
+      "size"
+    ],
+    "blend": [
+      "background",
+      "blend",
+      "mode",
+      "mix"
+    ],
+    "clip": [
+      "background",
+      "clip",
+      "path",
+      "mask"
+    ],
+    "color": [
+      "background",
+      "color",
+      "border",
+      "block",
+      "end",
+      "start",
+      "bottom",
+      "inline",
+      "left",
+      "right",
+      "top",
+      "caret",
+      "adjust",
+      "column",
+      "rule",
+      "outline",
+      "scrollbar",
+      "text",
+      "decoration",
+      "emphasis"
+    ],
+    "image": [
+      "background",
+      "image",
+      "border",
+      "outset",
+      "repeat",
+      "slice",
+      "source",
+      "width",
+      "orientation",
+      "rendering",
+      "list",
+      "style",
+      "mask",
+      "shape",
+      "threshold"
+    ],
+    "origin": [
+      "background",
+      "origin",
+      "mask",
+      "perspective",
+      "transform"
+    ],
+    "position": [
+      "background",
+      "position",
+      "font",
+      "variant",
+      "list",
+      "style",
+      "mask",
+      "object",
+      "text",
+      "emphasis",
+      "underline"
+    ],
+    "repeat": [
+      "background",
+      "repeat",
+      "border",
+      "image",
+      "mask"
+    ],
+    "size": [
+      "background",
+      "size",
+      "block",
+      "font",
+      "adjust",
+      "inline",
+      "mask",
+      "max",
+      "min",
+      "tab"
+    ],
+    "block": [
+      "block",
+      "size",
+      "border",
+      "color",
+      "end",
+      "style",
+      "width",
+      "start",
+      "inset",
+      "margin",
+      "max",
+      "min",
+      "overflow",
+      "overscroll",
+      "behavior",
+      "padding",
+      "scroll"
+    ],
+    "border": [
+      "border",
+      "block",
+      "color",
+      "end",
+      "style",
+      "width",
+      "start",
+      "bottom",
+      "left",
+      "radius",
+      "right",
+      "collapse",
+      "image",
+      "outset",
+      "repeat",
+      "slice",
+      "source",
+      "inline",
+      "spacing",
+      "top",
+      "mask",
+      "mode"
+    ],
+    "end": [
+      "border",
+      "block",
+      "end",
+      "color",
+      "style",
+      "width",
+      "radius",
+      "start",
+      "inline",
+      "grid",
+      "column",
+      "row",
+      "inset",
+      "margin",
+      "padding",
+      "scroll"
+    ],
+    "style": [
+      "border",
+      "block",
+      "end",
+      "style",
+      "start",
+      "bottom",
+      "inline",
+      "left",
+      "right",
+      "top",
+      "column",
+      "rule",
+      "font",
+      "list",
+      "image",
+      "position",
+      "type",
+      "outline",
+      "text",
+      "decoration",
+      "emphasis",
+      "transform"
+    ],
+    "width": [
+      "border",
+      "block",
+      "end",
+      "width",
+      "start",
+      "bottom",
+      "image",
+      "inline",
+      "left",
+      "right",
+      "top",
+      "column",
+      "rule",
+      "mask",
+      "max",
+      "min",
+      "outline",
+      "scrollbar"
+    ],
+    "start": [
+      "border",
+      "block",
+      "start",
+      "color",
+      "style",
+      "width",
+      "end",
+      "radius",
+      "inline",
+      "grid",
+      "column",
+      "row",
+      "inset",
+      "margin",
+      "padding",
+      "scroll"
+    ],
+    "bottom": [
+      "border",
+      "bottom",
+      "color",
+      "left",
+      "radius",
+      "right",
+      "style",
+      "width",
+      "margin",
+      "padding",
+      "scroll"
+    ],
+    "radius": [
+      "border",
+      "bottom",
+      "left",
+      "radius",
+      "right",
+      "end",
+      "start",
+      "top"
+    ],
+    "left": [
+      "border",
+      "bottom",
+      "left",
+      "radius",
+      "color",
+      "style",
+      "width",
+      "top",
+      "margin",
+      "padding",
+      "scroll"
+    ],
+    "right": [
+      "border",
+      "bottom",
+      "right",
+      "radius",
+      "color",
+      "style",
+      "width",
+      "top",
+      "margin",
+      "padding",
+      "scroll"
+    ],
+    "outset": [
+      "border",
+      "image",
+      "outset",
+      "mask"
+    ],
+    "slice": [
+      "border",
+      "image",
+      "slice",
+      "mask"
+    ],
+    "source": [
+      "border",
+      "image",
+      "source",
+      "mask"
+    ],
+    "inline": [
+      "border",
+      "inline",
+      "color",
+      "end",
+      "style",
+      "width",
+      "start",
+      "size",
+      "inset",
+      "margin",
+      "max",
+      "min",
+      "overflow",
+      "overscroll",
+      "behavior",
+      "padding",
+      "scroll"
+    ],
+    "spacing": [
+      "border",
+      "spacing",
+      "letter",
+      "word"
+    ],
+    "top": [
+      "border",
+      "top",
+      "color",
+      "left",
+      "radius",
+      "right",
+      "style",
+      "width",
+      "margin",
+      "padding",
+      "scroll"
+    ],
+    "break": [
+      "box",
+      "decoration",
+      "break",
+      "after",
+      "before",
+      "inside",
+      "line",
+      "page",
+      "word"
+    ],
+    "decoration": [
+      "box",
+      "decoration",
+      "break",
+      "text",
+      "color",
+      "line",
+      "skip",
+      "ink",
+      "style",
+      "thickness"
+    ],
+    "box": [
+      "box",
+      "decoration",
+      "break",
+      "shadow",
+      "sizing",
+      "transform"
+    ],
+    "shadow": [
+      "box",
+      "shadow",
+      "text"
+    ],
+    "sizing": [
+      "box",
+      "sizing",
+      "font",
+      "optical"
+    ],
+    "after": [
+      "break",
+      "after",
+      "page"
+    ],
+    "before": [
+      "break",
+      "before",
+      "page"
+    ],
+    "inside": [
+      "break",
+      "inside",
+      "page"
+    ],
+    "path": [
+      "clip",
+      "path",
+      "offset"
+    ],
+    "adjust": [
+      "color",
+      "adjust",
+      "font",
+      "size"
+    ],
+    "column": [
+      "column",
+      "count",
+      "fill",
+      "gap",
+      "rule",
+      "color",
+      "style",
+      "width",
+      "span",
+      "grid",
+      "end",
+      "start"
+    ],
+    "gap": [
+      "column",
+      "gap",
+      "row"
+    ],
+    "rule": [
+      "column",
+      "rule",
+      "color",
+      "style",
+      "width"
+    ],
+    "columns": [
+      "columns",
+      "grid",
+      "auto",
+      "template"
+    ],
+    "counter": [
+      "counter",
+      "increment",
+      "reset",
+      "set"
+    ],
+    "flex": [
+      "flex",
+      "basis",
+      "direction",
+      "flow",
+      "grow",
+      "shrink",
+      "wrap"
+    ],
+    "flow": [
+      "flex",
+      "flow",
+      "grid",
+      "auto"
+    ],
+    "wrap": [
+      "flex",
+      "wrap",
+      "overflow",
+      "word"
+    ],
+    "font": [
+      "font",
+      "family",
+      "feature",
+      "settings",
+      "kerning",
+      "language",
+      "override",
+      "optical",
+      "sizing",
+      "size",
+      "adjust",
+      "stretch",
+      "style",
+      "synthesis",
+      "variant",
+      "alternates",
+      "caps",
+      "east",
+      "asian",
+      "ligatures",
+      "numeric",
+      "position",
+      "variation",
+      "weight"
+    ],
+    "settings": [
+      "font",
+      "feature",
+      "settings",
+      "variation"
+    ],
+    "variant": [
+      "font",
+      "variant",
+      "alternates",
+      "caps",
+      "east",
+      "asian",
+      "ligatures",
+      "numeric",
+      "position"
+    ],
+    "grid": [
+      "grid",
+      "area",
+      "auto",
+      "columns",
+      "flow",
+      "rows",
+      "column",
+      "end",
+      "start",
+      "row",
+      "template",
+      "areas"
+    ],
+    "auto": [
+      "grid",
+      "auto",
+      "columns",
+      "flow",
+      "rows"
+    ],
+    "rows": [
+      "grid",
+      "auto",
+      "rows",
+      "template"
+    ],
+    "row": [
+      "grid",
+      "row",
+      "end",
+      "start",
+      "gap"
+    ],
+    "template": [
+      "grid",
+      "template",
+      "areas",
+      "columns",
+      "rows"
+    ],
+    "height": [
+      "height",
+      "line",
+      "max",
+      "min"
+    ],
+    "orientation": [
+      "image",
+      "orientation",
+      "text"
+    ],
+    "rendering": [
+      "image",
+      "rendering",
+      "text"
+    ],
+    "inset": [
+      "inset",
+      "block",
+      "end",
+      "start",
+      "inline"
+    ],
+    "justify": [
+      "justify",
+      "content",
+      "items",
+      "self",
+      "text"
+    ],
+    "list": [
+      "list",
+      "style",
+      "image",
+      "position",
+      "type"
+    ],
+    "type": [
+      "list",
+      "style",
+      "type",
+      "mask",
+      "scroll",
+      "snap"
+    ],
+    "margin": [
+      "margin",
+      "block",
+      "end",
+      "start",
+      "bottom",
+      "inline",
+      "left",
+      "right",
+      "top",
+      "scroll",
+      "shape"
+    ],
+    "mask": [
+      "mask",
+      "border",
+      "mode",
+      "outset",
+      "repeat",
+      "slice",
+      "source",
+      "width",
+      "clip",
+      "composite",
+      "image",
+      "origin",
+      "position",
+      "size",
+      "type"
+    ],
+    "max": [
+      "max",
+      "block",
+      "size",
+      "height",
+      "inline",
+      "width"
+    ],
+    "min": [
+      "min",
+      "block",
+      "size",
+      "height",
+      "inline",
+      "width"
+    ],
+    "object": [
+      "object",
+      "fit",
+      "position"
+    ],
+    "offset": [
+      "offset",
+      "anchor",
+      "distance",
+      "path",
+      "rotate",
+      "outline",
+      "text",
+      "underline"
+    ],
+    "anchor": [
+      "offset",
+      "anchor",
+      "overflow"
+    ],
+    "rotate": [
+      "offset",
+      "rotate"
+    ],
+    "order": [
+      "order",
+      "paint"
+    ],
+    "outline": [
+      "outline",
+      "color",
+      "offset",
+      "style",
+      "width"
+    ],
+    "overflow": [
+      "overflow",
+      "anchor",
+      "block",
+      "inline",
+      "wrap",
+      "x",
+      "y",
+      "text"
+    ],
+    "x": [
+      "overflow",
+      "x",
+      "overscroll",
+      "behavior"
+    ],
+    "y": [
+      "overflow",
+      "y",
+      "overscroll",
+      "behavior"
+    ],
+    "behavior": [
+      "overscroll",
+      "behavior",
+      "block",
+      "inline",
+      "x",
+      "y",
+      "scroll"
+    ],
+    "overscroll": [
+      "overscroll",
+      "behavior",
+      "block",
+      "inline",
+      "x",
+      "y"
+    ],
+    "padding": [
+      "padding",
+      "block",
+      "end",
+      "start",
+      "bottom",
+      "inline",
+      "left",
+      "right",
+      "top",
+      "scroll"
+    ],
+    "page": [
+      "page",
+      "break",
+      "after",
+      "before",
+      "inside"
+    ],
+    "perspective": [
+      "perspective",
+      "origin"
+    ],
+    "place": [
+      "place",
+      "content",
+      "items",
+      "self"
+    ],
+    "scroll": [
+      "scroll",
+      "behavior",
+      "margin",
+      "block",
+      "end",
+      "start",
+      "bottom",
+      "inline",
+      "left",
+      "right",
+      "top",
+      "padding",
+      "snap",
+      "align",
+      "stop",
+      "type"
+    ],
+    "snap": [
+      "scroll",
+      "snap",
+      "align",
+      "stop",
+      "type"
+    ],
+    "scrollbar": [
+      "scrollbar",
+      "color",
+      "width"
+    ],
+    "shape": [
+      "shape",
+      "image",
+      "threshold",
+      "margin",
+      "outside"
+    ],
+    "text": [
+      "text",
+      "align",
+      "last",
+      "combine",
+      "upright",
+      "decoration",
+      "color",
+      "line",
+      "skip",
+      "ink",
+      "style",
+      "thickness",
+      "emphasis",
+      "position",
+      "indent",
+      "justify",
+      "orientation",
+      "overflow",
+      "rendering",
+      "shadow",
+      "transform",
+      "underline",
+      "offset"
+    ],
+    "emphasis": [
+      "text",
+      "emphasis",
+      "color",
+      "position",
+      "style"
+    ],
+    "transform": [
+      "text",
+      "transform",
+      "box",
+      "origin",
+      "style"
+    ],
+    "underline": [
+      "text",
+      "underline",
+      "offset",
+      "position"
+    ],
+    "transition": [
+      "transition",
+      "delay",
+      "duration",
+      "property",
+      "timing",
+      "function"
+    ],
+    "word": [
+      "word",
+      "break",
+      "spacing",
+      "wrap"
+    ]
+  },
+  "positions": {
+    "3/3": [
+      "clamp",
+      "mode",
+      "count",
+      "state",
+      "function",
+      "color",
+      "end",
+      "start",
+      "style",
+      "width",
+      "outset",
+      "repeat",
+      "slice",
+      "source",
+      "break",
+      "settings",
+      "override",
+      "sizing",
+      "adjust",
+      "alternates",
+      "caps",
+      "ligatures",
+      "numeric",
+      "position",
+      "columns",
+      "flow",
+      "rows",
+      "areas",
+      "image",
+      "type",
+      "size",
+      "block",
+      "inline",
+      "x",
+      "y",
+      "after",
+      "before",
+      "inside",
+      "bottom",
+      "left",
+      "right",
+      "top",
+      "align",
+      "stop",
+      "threshold",
+      "last",
+      "upright",
+      "line",
+      "thickness",
+      "offset"
+    ],
+    "2/3": [
+      "line",
+      "fill",
+      "iteration",
+      "play",
+      "timing",
+      "blend",
+      "block",
+      "bottom",
+      "image",
+      "inline",
+      "left",
+      "right",
+      "top",
+      "decoration",
+      "rule",
+      "feature",
+      "language",
+      "optical",
+      "size",
+      "variant",
+      "variation",
+      "auto",
+      "column",
+      "row",
+      "template",
+      "style",
+      "border",
+      "behavior",
+      "break",
+      "margin",
+      "padding",
+      "snap",
+      "align",
+      "combine",
+      "emphasis",
+      "underline"
+    ],
+    "1/3": [
+      "webkit",
+      "animation",
+      "background",
+      "border",
+      "box",
+      "column",
+      "font",
+      "grid",
+      "inset",
+      "list",
+      "margin",
+      "mask",
+      "max",
+      "min",
+      "mix",
+      "overscroll",
+      "padding",
+      "page",
+      "scroll",
+      "shape",
+      "text",
+      "transition"
+    ],
+    "2/2": [
+      "content",
+      "items",
+      "self",
+      "delay",
+      "direction",
+      "duration",
+      "name",
+      "filter",
+      "visibility",
+      "attachment",
+      "clip",
+      "color",
+      "image",
+      "origin",
+      "position",
+      "repeat",
+      "size",
+      "block",
+      "bottom",
+      "collapse",
+      "inline",
+      "left",
+      "radius",
+      "right",
+      "spacing",
+      "style",
+      "top",
+      "width",
+      "shadow",
+      "sizing",
+      "after",
+      "before",
+      "inside",
+      "side",
+      "path",
+      "adjust",
+      "count",
+      "fill",
+      "gap",
+      "rule",
+      "span",
+      "increment",
+      "reset",
+      "set",
+      "cells",
+      "basis",
+      "flow",
+      "grow",
+      "shrink",
+      "wrap",
+      "family",
+      "kerning",
+      "stretch",
+      "synthesis",
+      "variant",
+      "weight",
+      "area",
+      "column",
+      "row",
+      "template",
+      "punctuation",
+      "orientation",
+      "rendering",
+      "break",
+      "height",
+      "border",
+      "composite",
+      "mode",
+      "type",
+      "fit",
+      "anchor",
+      "distance",
+      "rotate",
+      "offset",
+      "x",
+      "y",
+      "behavior",
+      "order",
+      "events",
+      "margin",
+      "padding",
+      "outside",
+      "layout",
+      "align",
+      "decoration",
+      "emphasis",
+      "indent",
+      "justify",
+      "overflow",
+      "transform",
+      "action",
+      "box",
+      "property",
+      "bidi",
+      "space",
+      "change",
+      "index"
+    ],
+    "1/2": [
+      "align",
+      "animation",
+      "backdrop",
+      "backface",
+      "background",
+      "block",
+      "border",
+      "box",
+      "break",
+      "caption",
+      "caret",
+      "clip",
+      "color",
+      "column",
+      "counter",
+      "empty",
+      "flex",
+      "font",
+      "grid",
+      "hanging",
+      "image",
+      "inline",
+      "inset",
+      "justify",
+      "letter",
+      "line",
+      "list",
+      "margin",
+      "mask",
+      "max",
+      "min",
+      "object",
+      "offset",
+      "outline",
+      "overflow",
+      "overscroll",
+      "padding",
+      "paint",
+      "perspective",
+      "place",
+      "pointer",
+      "row",
+      "scroll",
+      "scrollbar",
+      "shape",
+      "tab",
+      "table",
+      "text",
+      "touch",
+      "transform",
+      "transition",
+      "unicode",
+      "vertical",
+      "white",
+      "will",
+      "word",
+      "writing",
+      "z"
+    ],
+    "1/1": [
+      "all",
+      "animation",
+      "background",
+      "border",
+      "bottom",
+      "ch",
+      "clear",
+      "clip",
+      "cm",
+      "color",
+      "columns",
+      "contain",
+      "content",
+      "cursor",
+      "deg",
+      "direction",
+      "display",
+      "dpcm",
+      "dpi",
+      "dppx",
+      "em",
+      "ex",
+      "filter",
+      "flex",
+      "float",
+      "font",
+      "fr",
+      "gap",
+      "grad",
+      "grid",
+      "height",
+      "hyphens",
+      "in",
+      "inherit",
+      "initial",
+      "inset",
+      "isolation",
+      "left",
+      "margin",
+      "mask",
+      "mm",
+      "ms",
+      "offset",
+      "opacity",
+      "order",
+      "orphans",
+      "outline",
+      "overflow",
+      "padding",
+      "pc",
+      "perspective",
+      "position",
+      "pt",
+      "px",
+      "quotes",
+      "rad",
+      "rem",
+      "resize",
+      "revert",
+      "right",
+      "rotate",
+      "s",
+      "scale",
+      "top",
+      "transform",
+      "transition",
+      "translate",
+      "turn",
+      "unset",
+      "vh",
+      "visibility",
+      "vmax",
+      "vmin",
+      "vw",
+      "widows",
+      "width",
+      "x"
+    ],
+    "4/4": [
+      "color",
+      "style",
+      "width",
+      "radius",
+      "asian",
+      "end",
+      "start",
+      "ink"
+    ],
+    "3/4": [
+      "end",
+      "start",
+      "left",
+      "right",
+      "east",
+      "block",
+      "inline",
+      "skip"
+    ],
+    "2/4": [
+      "block",
+      "bottom",
+      "end",
+      "inline",
+      "start",
+      "top",
+      "variant",
+      "margin",
+      "padding",
+      "decoration"
+    ],
+    "1/4": [
+      "border",
+      "font",
+      "scroll",
+      "text"
+    ]
+  },
+  "positioned": {
+    "line": [
+      "2/3",
+      "1/2",
+      "3/3"
+    ],
+    "content": [
+      "2/2",
+      "1/1"
+    ],
+    "align": [
+      "1/2",
+      "3/3",
+      "2/2",
+      "2/3"
+    ],
+    "items": [
+      "2/2"
+    ],
+    "self": [
+      "2/2"
+    ],
+    "animation": [
+      "1/1",
+      "1/2",
+      "1/3"
+    ],
+    "delay": [
+      "2/2"
+    ],
+    "direction": [
+      "2/2",
+      "1/1"
+    ],
+    "duration": [
+      "2/2"
+    ],
+    "mode": [
+      "3/3",
+      "2/2"
+    ],
+    "fill": [
+      "2/3",
+      "2/2"
+    ],
+    "count": [
+      "3/3",
+      "2/2"
+    ],
+    "function": [
+      "3/3"
+    ],
+    "timing": [
+      "2/3"
+    ],
+    "filter": [
+      "2/2",
+      "1/1"
+    ],
+    "visibility": [
+      "2/2",
+      "1/1"
+    ],
+    "background": [
+      "1/1",
+      "1/2",
+      "1/3"
+    ],
+    "blend": [
+      "2/3"
+    ],
+    "clip": [
+      "2/2",
+      "1/1",
+      "1/2"
+    ],
+    "color": [
+      "2/2",
+      "3/3",
+      "4/4",
+      "1/1",
+      "1/2"
+    ],
+    "image": [
+      "2/2",
+      "2/3",
+      "1/2",
+      "3/3"
+    ],
+    "origin": [
+      "2/2"
+    ],
+    "position": [
+      "2/2",
+      "3/3",
+      "1/1"
+    ],
+    "repeat": [
+      "2/2",
+      "3/3"
+    ],
+    "size": [
+      "2/2",
+      "2/3",
+      "3/3"
+    ],
+    "block": [
+      "1/2",
+      "2/2",
+      "2/3",
+      "2/4",
+      "3/3",
+      "3/4"
+    ],
+    "border": [
+      "1/1",
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/2",
+      "2/3"
+    ],
+    "end": [
+      "3/3",
+      "3/4",
+      "2/4",
+      "4/4"
+    ],
+    "style": [
+      "4/4",
+      "3/3",
+      "2/2",
+      "2/3"
+    ],
+    "width": [
+      "4/4",
+      "3/3",
+      "2/2",
+      "1/1"
+    ],
+    "start": [
+      "3/3",
+      "3/4",
+      "2/4",
+      "4/4"
+    ],
+    "bottom": [
+      "2/2",
+      "2/3",
+      "2/4",
+      "1/1",
+      "3/3"
+    ],
+    "radius": [
+      "4/4",
+      "2/2"
+    ],
+    "left": [
+      "3/4",
+      "2/2",
+      "2/3",
+      "1/1",
+      "3/3"
+    ],
+    "right": [
+      "3/4",
+      "2/2",
+      "2/3",
+      "1/1",
+      "3/3"
+    ],
+    "outset": [
+      "3/3"
+    ],
+    "slice": [
+      "3/3"
+    ],
+    "source": [
+      "3/3"
+    ],
+    "inline": [
+      "2/2",
+      "2/3",
+      "2/4",
+      "1/2",
+      "3/3",
+      "3/4"
+    ],
+    "spacing": [
+      "2/2"
+    ],
+    "top": [
+      "2/2",
+      "2/3",
+      "2/4",
+      "3/3",
+      "1/1"
+    ],
+    "break": [
+      "3/3",
+      "1/2",
+      "2/2",
+      "2/3"
+    ],
+    "decoration": [
+      "2/3",
+      "2/2",
+      "2/4"
+    ],
+    "box": [
+      "1/3",
+      "1/2",
+      "2/2"
+    ],
+    "shadow": [
+      "2/2"
+    ],
+    "sizing": [
+      "2/2",
+      "3/3"
+    ],
+    "after": [
+      "2/2",
+      "3/3"
+    ],
+    "before": [
+      "2/2",
+      "3/3"
+    ],
+    "inside": [
+      "2/2",
+      "3/3"
+    ],
+    "path": [
+      "2/2"
+    ],
+    "adjust": [
+      "2/2",
+      "3/3"
+    ],
+    "column": [
+      "1/2",
+      "1/3",
+      "2/2",
+      "2/3"
+    ],
+    "gap": [
+      "2/2",
+      "1/1"
+    ],
+    "rule": [
+      "2/2",
+      "2/3"
+    ],
+    "columns": [
+      "1/1",
+      "3/3"
+    ],
+    "counter": [
+      "1/2"
+    ],
+    "flex": [
+      "1/1",
+      "1/2"
+    ],
+    "flow": [
+      "2/2",
+      "3/3"
+    ],
+    "wrap": [
+      "2/2"
+    ],
+    "font": [
+      "1/1",
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "settings": [
+      "3/3"
+    ],
+    "variant": [
+      "2/2",
+      "2/3",
+      "2/4"
+    ],
+    "grid": [
+      "1/1",
+      "1/2",
+      "1/3"
+    ],
+    "auto": [
+      "2/3"
+    ],
+    "rows": [
+      "3/3"
+    ],
+    "row": [
+      "2/2",
+      "2/3",
+      "1/2"
+    ],
+    "template": [
+      "2/2",
+      "2/3"
+    ],
+    "height": [
+      "1/1",
+      "2/2"
+    ],
+    "orientation": [
+      "2/2"
+    ],
+    "rendering": [
+      "2/2"
+    ],
+    "inset": [
+      "1/1",
+      "1/2",
+      "1/3"
+    ],
+    "justify": [
+      "1/2",
+      "2/2"
+    ],
+    "list": [
+      "1/2",
+      "1/3"
+    ],
+    "type": [
+      "3/3",
+      "2/2"
+    ],
+    "margin": [
+      "1/1",
+      "1/2",
+      "1/3",
+      "2/2",
+      "2/3",
+      "2/4"
+    ],
+    "mask": [
+      "1/1",
+      "1/2",
+      "1/3"
+    ],
+    "max": [
+      "1/3",
+      "1/2"
+    ],
+    "min": [
+      "1/3",
+      "1/2"
+    ],
+    "object": [
+      "1/2"
+    ],
+    "offset": [
+      "1/1",
+      "1/2",
+      "2/2",
+      "3/3"
+    ],
+    "anchor": [
+      "2/2"
+    ],
+    "rotate": [
+      "2/2",
+      "1/1"
+    ],
+    "order": [
+      "1/1",
+      "2/2"
+    ],
+    "outline": [
+      "1/1",
+      "1/2"
+    ],
+    "overflow": [
+      "1/1",
+      "1/2",
+      "2/2"
+    ],
+    "x": [
+      "2/2",
+      "3/3",
+      "1/1"
+    ],
+    "y": [
+      "2/2",
+      "3/3"
+    ],
+    "behavior": [
+      "2/2",
+      "2/3"
+    ],
+    "overscroll": [
+      "1/2",
+      "1/3"
+    ],
+    "padding": [
+      "1/1",
+      "1/2",
+      "1/3",
+      "2/2",
+      "2/3",
+      "2/4"
+    ],
+    "page": [
+      "1/3"
+    ],
+    "perspective": [
+      "1/1",
+      "1/2"
+    ],
+    "place": [
+      "1/2"
+    ],
+    "scroll": [
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "snap": [
+      "2/3"
+    ],
+    "scrollbar": [
+      "1/2"
+    ],
+    "shape": [
+      "1/3",
+      "1/2"
+    ],
+    "text": [
+      "1/2",
+      "1/3",
+      "1/4"
+    ],
+    "emphasis": [
+      "2/2",
+      "2/3"
+    ],
+    "transform": [
+      "2/2",
+      "1/1",
+      "1/2"
+    ],
+    "underline": [
+      "2/3"
+    ],
+    "transition": [
+      "1/1",
+      "1/2",
+      "1/3"
+    ],
+    "word": [
+      "1/2"
+    ]
+  },
+  "positionAreas": {
+    "1/2, 2/3, 3/3": [
+      "line"
+    ],
+    "1/1, 2/2": [
+      "content",
+      "direction",
+      "filter",
+      "visibility",
+      "gap",
+      "height",
+      "rotate",
+      "order"
+    ],
+    "1/2, 2/2, 2/3, 3/3": [
+      "align",
+      "image",
+      "break"
+    ],
+    "2/2": [
+      "items",
+      "self",
+      "delay",
+      "duration",
+      "origin",
+      "spacing",
+      "shadow",
+      "path",
+      "wrap",
+      "orientation",
+      "rendering",
+      "anchor"
+    ],
+    "1/1, 1/2, 1/3": [
+      "animation",
+      "background",
+      "grid",
+      "inset",
+      "mask",
+      "transition"
+    ],
+    "2/2, 3/3": [
+      "mode",
+      "count",
+      "repeat",
+      "sizing",
+      "after",
+      "before",
+      "inside",
+      "adjust",
+      "flow",
+      "type",
+      "y"
+    ],
+    "2/2, 2/3": [
+      "fill",
+      "rule",
+      "template",
+      "behavior",
+      "emphasis"
+    ],
+    "3/3": [
+      "function",
+      "outset",
+      "slice",
+      "source",
+      "settings",
+      "rows"
+    ],
+    "2/3": [
+      "timing",
+      "blend",
+      "auto",
+      "snap",
+      "underline"
+    ],
+    "1/1, 1/2, 2/2": [
+      "clip",
+      "overflow",
+      "transform"
+    ],
+    "1/1, 1/2, 2/2, 3/3, 4/4": [
+      "color"
+    ],
+    "1/1, 2/2, 3/3": [
+      "position",
+      "x"
+    ],
+    "2/2, 2/3, 3/3": [
+      "size"
+    ],
+    "1/2, 2/2, 2/3, 2/4, 3/3, 3/4": [
+      "block",
+      "inline"
+    ],
+    "1/1, 1/2, 1/3, 1/4, 2/2, 2/3": [
+      "border"
+    ],
+    "2/4, 3/3, 3/4, 4/4": [
+      "end",
+      "start"
+    ],
+    "2/2, 2/3, 3/3, 4/4": [
+      "style"
+    ],
+    "1/1, 2/2, 3/3, 4/4": [
+      "width"
+    ],
+    "1/1, 2/2, 2/3, 2/4, 3/3": [
+      "bottom",
+      "top"
+    ],
+    "2/2, 4/4": [
+      "radius"
+    ],
+    "1/1, 2/2, 2/3, 3/3, 3/4": [
+      "left",
+      "right"
+    ],
+    "2/2, 2/3, 2/4": [
+      "decoration",
+      "variant"
+    ],
+    "1/2, 1/3, 2/2": [
+      "box"
+    ],
+    "1/2, 1/3, 2/2, 2/3": [
+      "column"
+    ],
+    "1/1, 3/3": [
+      "columns"
+    ],
+    "1/2": [
+      "counter",
+      "object",
+      "place",
+      "scrollbar",
+      "word"
+    ],
+    "1/1, 1/2": [
+      "flex",
+      "outline",
+      "perspective"
+    ],
+    "1/1, 1/2, 1/3, 1/4": [
+      "font"
+    ],
+    "1/2, 2/2, 2/3": [
+      "row"
+    ],
+    "1/2, 2/2": [
+      "justify"
+    ],
+    "1/2, 1/3": [
+      "list",
+      "max",
+      "min",
+      "overscroll",
+      "shape"
+    ],
+    "1/1, 1/2, 1/3, 2/2, 2/3, 2/4": [
+      "margin",
+      "padding"
+    ],
+    "1/1, 1/2, 2/2, 3/3": [
+      "offset"
+    ],
+    "1/3": [
+      "page"
+    ],
+    "1/2, 1/3, 1/4": [
+      "scroll",
+      "text"
+    ]
+  }
+}
